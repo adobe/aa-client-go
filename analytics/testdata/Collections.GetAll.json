@@ -1,0 +1,20 @@
+{
+    "content": [
+        {
+            "collectionItemType": "reportsuite",
+            "rsid": "amc.aem.prod"
+        },
+        {
+            "collectionItemType": "reportsuite",
+            "rsid": "amc.aem.dev"
+        }
+    ],
+    "numberOfElements": 2,
+    "totalElements": 2,
+    "lastPage": true,
+    "firstPage": true,
+    "totalPages": 1,
+    "sort": null,
+    "size": 1000,
+    "number": 0
+}

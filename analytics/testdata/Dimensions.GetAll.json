@@ -1,0 +1,28 @@
+[
+  {
+    "id": "variables/evar1",
+    "title": "EVar 1",
+    "name": "EVar 1",
+    "type": "string",
+    "category": "Conversion",
+    "support": ["oberon", "dataWarehouse"],
+    "pathable": false,
+    "extraTitleInfo": "evar1",
+    "segmentable": true,
+    "reportable": ["oberon"],
+    "allowedForReporting": false
+  },
+  {
+    "id": "variables/evar2",
+    "title": "EVar 2",
+    "name": "EVar 2",
+    "type": "string",
+    "category": "Conversion",
+    "support": ["oberon", "dataWarehouse"],
+    "pathable": false,
+    "extraTitleInfo": "evar2",
+    "segmentable": true,
+    "reportable": ["oberon"],
+    "allowedForReporting": false
+  }
+]

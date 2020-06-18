@@ -1,0 +1,14 @@
+{
+  "id": "metrics/pageviews",
+  "title": "Page Views",
+  "name": "Page Views",
+  "type": "int",
+  "category": "Traffic",
+  "support": ["oberon", "dataWarehouse"],
+  "Allocation": false,
+  "Precision": 0,
+  "calculated": false,
+  "segmentable": true,
+  "polarity": "positive",
+  "allowedForReporting": false
+}

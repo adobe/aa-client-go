@@ -1,0 +1,14 @@
+Analytics:
+  Endpoint: https://analytics.adobe.io/api
+  ReportSuiteID: <INSERT REPORT SUITE ID>
+  CompanyID: <INSERT COMPANY ID>
+  IMSEndpoint: https://ims-na1.adobelogin.com
+  IMSClientID: <INSERT CLIENT ID>
+  IMSOrgID: <INSERT IMS ORG ID>
+  IMSTechnicalAccountID: <INSERT TECHNICAL ACCOUNT ID>
+  IMSClientSecret: <INSERT CLIENT SECRET>
+  IMSPrivateKey: |
+    -----BEGIN PRIVATE KEY-----
+    <INSERT PRIVATE-KEY>
+    -----END PRIVATE KEY-----
+    

@@ -1,0 +1,361 @@
+{
+  "totalPages": 1,
+  "firstPage": true,
+  "lastPage": true,
+  "numberOfElements": 68,
+  "number": 0,
+  "totalElements": 68,
+  "columns": {
+    "dimension": {
+      "id": "variables/evar6",
+      "type": "string"
+    },
+    "columnIds": ["0"]
+  },
+  "rows": [
+    {
+      "itemId": "0",
+      "value": "Unspecified",
+      "data": [282548.0]
+    },
+    {
+      "itemId": "2450395",
+      "value": "#",
+      "data": [42.0]
+    },
+    {
+      "itemId": "10604929",
+      "value": "ae81e66e59307f730a495efa@adobeorg",
+      "data": [54.0]
+    },
+    {
+      "itemId": "30827442",
+      "value": "2ca24cce5d35bd4a0a495cc7@adobeorg",
+      "data": [281.0]
+    },
+    {
+      "itemId": "81141778",
+      "value": "6a3df65a5832d31c0a495c35@adobeorg",
+      "data": [230.0]
+    },
+    {
+      "itemId": "85221166",
+      "value": "ea76ade95776d2ec7f000101@adobeorg",
+      "data": [85.0]
+    },
+    {
+      "itemId": "262468684",
+      "value": "ed8d65e655fac7797f000101@adobeorg",
+      "data": [2.0]
+    },
+    {
+      "itemId": "326211842",
+      "value": "a65235975cf982d50a495fa9@adobeorg",
+      "data": [24.0]
+    },
+    {
+      "itemId": "360723141",
+      "value": "aad53bc75245b4ba0a490d4d@adobeorg",
+      "data": [2.0]
+    },
+    {
+      "itemId": "378387902",
+      "value": "255b459a5d94570b0a495c24@adobeorg",
+      "data": [5.0]
+    },
+    {
+      "itemId": "397498255",
+      "value": "f84634a45cef97930a495e4c@adobeorg",
+      "data": [201.0]
+    },
+    {
+      "itemId": "529954830",
+      "value": "84681d9f5c019be70a495e92@adobeorg",
+      "data": [460.0]
+    },
+    {
+      "itemId": "560474860",
+      "value": "9355f0cc5405d58c0a4c98a1@adobeorg",
+      "data": [303.0]
+    },
+    {
+      "itemId": "561392978",
+      "value": "b4ab28ae56d80caf7f000101@adobeorg",
+      "data": [2.0]
+    },
+    {
+      "itemId": "719219534",
+      "value": "907136ed5d35cbf50a495cd4@adobeorg",
+      "data": [1.0]
+    },
+    {
+      "itemId": "834929436",
+      "value": "acb31c8b53308d980a490d4d@adobeorg",
+      "data": [342.0]
+    },
+    {
+      "itemId": "841390801",
+      "value": "8d3e67c25245aeb70a490d4c@adobeorg",
+      "data": [32.0]
+    },
+    {
+      "itemId": "987689894",
+      "value": "261f337b54e73b180a4c98a1@adobeorg",
+      "data": [452.0]
+    },
+    {
+      "itemId": "1012538123",
+      "value": "a8833bc75245af9e0a490d4d@adobeorg",
+      "data": [414.0]
+    },
+    {
+      "itemId": "1015964931",
+      "value": "d58d123f524457240a490d45@adobeorg",
+      "data": [3.0]
+    },
+    {
+      "itemId": "1039447821",
+      "value": "12d7329f5bfd792e0a494004@adobeorg",
+      "data": [125.0]
+    },
+    {
+      "itemId": "1104445885",
+      "value": "ed3301ac512d2a290a490d4c@adobeorg",
+      "data": [83.0]
+    },
+    {
+      "itemId": "1137780513",
+      "value": "f460562c5c7d0db10a495eb6@adobeorg",
+      "data": [1349.0]
+    },
+    {
+      "itemId": "1195160195",
+      "value": "none:anonymous",
+      "data": [1.0]
+    },
+    {
+      "itemId": "1290285334",
+      "value": "b28447b65d88a19f0a495c33@adobeorg",
+      "data": [7.0]
+    },
+    {
+      "itemId": "1353455879",
+      "value": "na",
+      "data": [3503.0]
+    },
+    {
+      "itemId": "1398704355",
+      "value": "2ccee7b4564203767f000101@adobeorg",
+      "data": [10.0]
+    },
+    {
+      "itemId": "1408446848",
+      "value": "99911cfe5329657b0a490d45@adobeorg",
+      "data": [58.0]
+    },
+    {
+      "itemId": "1484059963",
+      "value": "76b329395df155d60a495e2c@adobeorg",
+      "data": [101.0]
+    },
+    {
+      "itemId": "1558480757",
+      "value": "0b5c4f9a5192bca70a490d4d@adobeorg",
+      "data": [39.0]
+    },
+    {
+      "itemId": "1762544207",
+      "value": "908936ed5d35cc220a495cd4@adobeorg",
+      "data": [3.0]
+    },
+    {
+      "itemId": "1848661081",
+      "value": "598f4bab5e20f1220a495fd8@adobeorg",
+      "data": [302.0]
+    },
+    {
+      "itemId": "2136544452",
+      "value": "direct:",
+      "data": [53797.0]
+    },
+    {
+      "itemId": "2173412750",
+      "value": "93be1c8b532956910a490d4d@adobeorg",
+      "data": [36.0]
+    },
+    {
+      "itemId": "2331940577",
+      "value": "e6d328ae56cdaf037f000101@adobeorg",
+      "data": [1.0]
+    },
+    {
+      "itemId": "2408296724",
+      "value": "9901e79d5926a32a0a495c9e@adobeorg",
+      "data": [10.0]
+    },
+    {
+      "itemId": "2410829348",
+      "value": "5400f0f555954e8c7f000101@adobeorg",
+      "data": [71.0]
+    },
+    {
+      "itemId": "2438083683",
+      "value": ":",
+      "data": [178600.0]
+    },
+    {
+      "itemId": "2653772644",
+      "value": "d40c28b35e442ae60a495f8c@adobeorg",
+      "data": [13.0]
+    },
+    {
+      "itemId": "2727029419",
+      "value": "6c2b3d5b5a4df5e60a495c11@adobeorg",
+      "data": [46.0]
+    },
+    {
+      "itemId": "2807748926",
+      "value": "4113f97c594104260a495ec0@adobeorg",
+      "data": [7.0]
+    },
+    {
+      "itemId": "2811207931",
+      "value": "28f63a295c73dc210a495ea4@adobeorg",
+      "data": [514.0]
+    },
+    {
+      "itemId": "2823961605",
+      "value": "e7e7a0335576c5bc7f000101@adobeorg",
+      "data": [19.0]
+    },
+    {
+      "itemId": "2958932139",
+      "value": "e6d235355cf7c1de0a495eec@adobeorg",
+      "data": [410.0]
+    },
+    {
+      "itemId": "2975376654",
+      "value": "8d4667c25245aec10a490d4c@adobeorg",
+      "data": [170.0]
+    },
+    {
+      "itemId": "3047914312",
+      "value": "af172ddd5e444feb0a495e5a@adobeorg",
+      "data": [66.0]
+    },
+    {
+      "itemId": "3089202674",
+      "value": "01a7b808561e59f17f000101@adobeorg",
+      "data": [6.0]
+    },
+    {
+      "itemId": "3127400877",
+      "value": "dbad55eb5dd571680a495ffc@adobeorg",
+      "data": [44.0]
+    },
+    {
+      "itemId": "3134094529",
+      "value": "9d0725c05e44fe1a0a49411c@adobeorg",
+      "data": [18.0]
+    },
+    {
+      "itemId": "3180456614",
+      "value": "ims:df469dd055390ee80a4c98a7@adobeorg",
+      "data": [63.0]
+    },
+    {
+      "itemId": "3183097394",
+      "value": "ba1d57835d5414860a495e83@adobeorg",
+      "data": [118.0]
+    },
+    {
+      "itemId": "3198814921",
+      "value": "9644ad4e5628b1ed7f000101@adobeorg",
+      "data": [103.0]
+    },
+    {
+      "itemId": "3203154472",
+      "value": "812b47145dc5a2450a495c14@adobeorg",
+      "data": [973.0]
+    },
+    {
+      "itemId": "3252049490",
+      "value": "8e6307bf5d775fa00a495ef9@adobeorg",
+      "data": [1.0]
+    },
+    {
+      "itemId": "3597459021",
+      "value": "ebf146125d8dc0f60a495e21",
+      "data": [1992.0]
+    },
+    {
+      "itemId": "3631924926",
+      "value": "5b5243a15589607e7f000101@adobeorg",
+      "data": [7.0]
+    },
+    {
+      "itemId": "3638582957",
+      "value": "cc46541b5e4466f30a495fce@adobeorg",
+      "data": [2.0]
+    },
+    {
+      "itemId": "3657701607",
+      "value": "9075a2b154de8af80a4c98a7@adobeorg",
+      "data": [114.0]
+    },
+    {
+      "itemId": "3672496546",
+      "value": "5e16123f5245b2970a490d45@adobeorg",
+      "data": [7.0]
+    },
+    {
+      "itemId": "3724171465",
+      "value": "ims:fc80403d53c3ed6c0a490d4c@adobeorg",
+      "data": [133.0]
+    },
+    {
+      "itemId": "3775848419",
+      "value": "ims:5a9f45ff5d88b5600a494034@adobeorg",
+      "data": [3.0]
+    },
+    {
+      "itemId": "3834491570",
+      "value": "972d35f65a8d3c500a495ede@adobeorg",
+      "data": [3.0]
+    },
+    {
+      "itemId": "3861529038",
+      "value": "0899356c53e9ce880a490d44@adobeorg",
+      "data": [117.0]
+    },
+    {
+      "itemId": "3894130929",
+      "value": "e34b42a45e442d260a495fd2@adobeorg",
+      "data": [13.0]
+    },
+    {
+      "itemId": "3919810190",
+      "value": "5e35755f5b7c1b910a495c46@adobeorg",
+      "data": [521.0]
+    },
+    {
+      "itemId": "4027824762",
+      "value": "a7ce15785d6e8b2c0a495fe7@adobeorg",
+      "data": [813.0]
+    },
+    {
+      "itemId": "4230246519",
+      "value": "827443115b7c135d0a495e78@adobeorg",
+      "data": [3.0]
+    },
+    {
+      "itemId": "4266005747",
+      "value": "ea7f7dbc5776b93c7f000101@adobeorg",
+      "data": [336.0]
+    }
+  ],
+  "summaryData": {
+    "filteredTotals": [530214.0],
+    "totals": [530214.0]
+  }
+}

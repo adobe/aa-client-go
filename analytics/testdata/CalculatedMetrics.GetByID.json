@@ -1,0 +1,12 @@
+{
+    "polarity": "positive",
+    "precision": 0,
+    "type": "decimal",
+    "id": "cm300003364_5ae7447df118f061698ddc31",
+    "name": "Unique Feature Usage",
+    "description": "",
+    "rsid": "amc.aem.prod",
+    "owner": {
+        "id": 711989
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "id": "57a9ad685fe707f55ffb68f5",
+      "name": "Last Week",
+      "description": "",
+      "owner": {
+        "id": 565028
+      }
+    },
+    {
+      "id": "57a9ad25cdb5172f10e9c785",
+      "name": "Current Week",
+      "description": "",
+      "owner": {
+        "id": 565028
+      }
+    }
+  ],
+  "totalElements": 2,
+  "numberOfElements": 2,
+  "lastPage": true,
+  "totalPages": 1,
+  "firstPage": true,
+  "sort": null,
+  "size": 1000,
+  "number": 0
+}

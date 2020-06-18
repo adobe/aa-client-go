@@ -1,0 +1,33 @@
+{
+  "rsid": "amc.aem.prod",
+  "globalFilters": [
+    {
+      "type": "dateRange",
+      "dateRange": "2020-04-01T00:00:00.000/2020-04-02T00:00:00.000"
+    }
+  ],
+  "metricContainer": {
+    "metrics": [
+      {
+        "columnId": "0",
+        "id": "metrics/pageviews",
+        "filters": ["0"]
+      }
+    ],
+    "metricFilters": [
+      {
+        "id": "0",
+        "type": "dateRange",
+        "dateRange": "2020-04-01T00:00:00.000/2020-04-02T00:00:00.000"
+      }
+    ]
+  },
+  "dimension": "variables/evar6",
+  "settings": {
+    "countRepeatInstances": true,
+    "dimensionSort": "asc",
+    "limit": 100,
+    "page": 0,
+    "nonesBehavior": "return-nones"
+  }
+}

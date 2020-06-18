@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "id": "s300003364_584b10f1e4b0d5eeaacd660b",
+      "name": "AEM Product Pages",
+      "rsid": "amc.aem.prod",
+      "owner": {
+        "id": 578193
+      }
+    },
+    {
+      "id": "s300003364_589ce94be4b0c29f29c4f07f",
+      "name": "Product Solution Pages - UI Only",
+      "rsid": "amc.aem.prod",
+      "owner": {
+        "id": 564569
+      }
+    }
+  ],
+  "size": 10,
+  "numberOfElements": 2,
+  "totalElements": 2,
+  "previousPage": false,
+  "firstPage": true,
+  "nextPage": false,
+  "lastPage": true,
+  "totalPages": 1
+}

@@ -1,0 +1,43 @@
+{
+    "content": [
+        {
+            "polarity": "positive",
+            "precision": 0,
+            "type": "decimal",
+            "id": "cm300003364_5ae7447df118f061698ddc31",
+            "name": "Unique Feature Usage",
+            "description": "",
+            "rsid": "amc.aem.prod",
+            "owner": {
+                "id": 711989
+            }
+        },
+        {
+            "polarity": "positive",
+            "precision": 0,
+            "type": "decimal",
+            "id": "cm300003364_5aea12481d43f66d8f1ba045",
+            "name": "Unique Page URL",
+            "description": "",
+            "rsid": "amc.aem.prod",
+            "owner": {
+                "id": 711989
+            }
+        }
+    ],
+    "totalPages": 1,
+    "totalElements": 2,
+    "number": 0,
+    "numberOfElements": 2,
+    "firstPage": true,
+    "lastPage": true,
+    "sort": [
+        {
+            "direction": "ASC",
+            "property": "id",
+            "ignoreCase": false,
+            "ascending": true
+        }
+    ],
+    "size": 1000
+}
