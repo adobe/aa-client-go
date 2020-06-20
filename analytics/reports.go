@@ -28,8 +28,6 @@ func (s *ReportsService) Run(rankedRequest *RankedRequest) (*RankedReportData, e
 	reqJSON, _ := json.Marshal(rankedRequest)
 	reqBody := strings.NewReader(string(reqJSON))
 
-	// log.Printf("[DEBUG] Request payload %v", reqBody)
-
 	var data RankedReportData
 	err := s.client.post("/reports", map[string]string{}, reqBody, &data)
 	if err != nil {

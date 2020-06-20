@@ -58,7 +58,6 @@ type Client struct {
 }
 
 // NewClient returns a new Analytics API 2.0 client.
-//func NewClient(httpClient *http.Client, baseURL string, auth *Auth) (*Client, error) {
 func NewClient(config *Config) (*Client, error) {
 	var httpClient *http.Client
 	if config.HTTPClient != nil {
@@ -202,8 +201,6 @@ func request(client *Client, method, path string, params map[string]string, body
 	req.Header.Set("x-api-key", client.auth.imsClientID)
 	req.Header.Set("x-gw-ims-org-id", client.auth.imsOrgID)
 	req.Header.Set("x-proxy-global-company-id", client.auth.companyID)
-
-	// log.Printf("[DEBUG] Request  %v", req)
 
 	res, err := httpClient.Do(req)
 	if err != nil {
