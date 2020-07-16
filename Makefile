@@ -11,7 +11,7 @@ vet:
 
 .PHONY: lint
 lint:
-	@golint ./...
+	@golint -min_confidence=.6 -set_exit_status ./...
 
 .PHONY: test
 test:

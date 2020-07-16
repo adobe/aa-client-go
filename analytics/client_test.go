@@ -117,7 +117,7 @@ func TestNewClientNoScheme(t *testing.T) {
 	if err == nil {
 		t.Fatalf("expected error")
 	}
-	if err.Error() != "Missing URL scheme" {
+	if err.Error() != "missing URL scheme" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }
@@ -135,7 +135,7 @@ func TestNewClientNoHost(t *testing.T) {
 	if err == nil {
 		t.Fatalf("expected error")
 	}
-	if err.Error() != "Missing URL host" {
+	if err.Error() != "missing URL host" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }
@@ -153,35 +153,35 @@ func TestNewClientMalformedURL(t *testing.T) {
 	if err == nil {
 		t.Fatalf("expected error")
 	}
-	if err.Error() != "Malformed URL" {
+	if err.Error() != "malformed URL" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }
 
 func TestNewClientNoClientID(t *testing.T) {
 	err := testNewClientInvalidAuth(t, "", "OrgID", "AccessToken", "CompanyID")
-	if err.Error() != "Missing ClientID" {
+	if err.Error() != "missing ClientID" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }
 
 func TestNewClientNoIMSOrgID(t *testing.T) {
 	err := testNewClientInvalidAuth(t, "ClientID", "", "AccessToken", "CompanyID")
-	if err.Error() != "Missing OrgID" {
+	if err.Error() != "missing OrgID" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }
 
 func TestNewClientNoIMSAuthToken(t *testing.T) {
 	err := testNewClientInvalidAuth(t, "ClientID", "OrgID", "", "CompanyID")
-	if err.Error() != "Missing AccessToken" {
+	if err.Error() != "missing AccessToken" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }
 
 func TestNewClientNoCompanyID(t *testing.T) {
 	err := testNewClientInvalidAuth(t, "ClientID", "OrgID", "AccessToken", "")
-	if err.Error() != "Missing CompanyID" {
+	if err.Error() != "missing CompanyID" {
 		t.Fatalf("unexpected error: %v", err)
 	}
 }

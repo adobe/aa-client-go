@@ -108,15 +108,15 @@ func verifyBaseURL(baseURL string) (*url.URL, error) {
 
 	parsedBaseURL, err := url.Parse(baseURL)
 	if err != nil {
-		return nil, fmt.Errorf("Malformed URL")
+		return nil, fmt.Errorf("malformed URL")
 	}
 
 	if parsedBaseURL.Scheme == "" {
-		return nil, fmt.Errorf("Missing URL scheme")
+		return nil, fmt.Errorf("missing URL scheme")
 	}
 
 	if parsedBaseURL.Host == "" {
-		return nil, fmt.Errorf("Missing URL host")
+		return nil, fmt.Errorf("missing URL host")
 	}
 	return parsedBaseURL, nil
 }
@@ -124,16 +124,16 @@ func verifyBaseURL(baseURL string) (*url.URL, error) {
 // verifyAuth verifies the specified auth
 func verifyAuth(auth *auth) error {
 	if auth.imsClientID == "" {
-		return fmt.Errorf("Missing ClientID")
+		return fmt.Errorf("missing ClientID")
 	}
 	if auth.imsAccessToken == "" {
-		return fmt.Errorf("Missing AccessToken")
+		return fmt.Errorf("missing AccessToken")
 	}
 	if auth.imsOrgID == "" {
-		return fmt.Errorf("Missing OrgID")
+		return fmt.Errorf("missing OrgID")
 	}
 	if auth.companyID == "" {
-		return fmt.Errorf("Missing CompanyID")
+		return fmt.Errorf("missing CompanyID")
 	}
 	return nil
 }
@@ -236,6 +236,6 @@ func checkResponse(r *http.Response) error {
 		return nil
 	}
 
-	err := fmt.Errorf("Received unexpected status code %d", r.StatusCode)
+	err := fmt.Errorf("received unexpected status code %d", r.StatusCode)
 	return err
 }
