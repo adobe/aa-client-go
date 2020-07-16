@@ -53,7 +53,7 @@ func TestMetricsGetAll(t *testing.T) {
 	}
 }
 
-func TestMetricsGetAllErro(t *testing.T) {
+func TestMetricsGetAllError(t *testing.T) {
 	setup()
 	defer teardown()
 
