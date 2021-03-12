@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "companyId": 1,
+      "loginId": 1,
+      "login": "12345678-abc-defg-abc-123456789012@example.com",
+      "changePassword": false,
+      "createDate": "2020-01-01T00:00:00Z",
+      "disabled": false,
+      "email": "12345678-abc-defg-abc-123456789012@example.com",
+      "firstName": "John",
+      "fullName": "John Doe",
+      "imsUserId": "12345678901234567890ABCD@example.com",
+      "lastName": "Doe"
+    },
+    {
+      "companyId": 1,
+      "loginId": 2,
+      "login": "12345678-abc-defg-abc-123456789012@example.com",
+      "changePassword": false,
+      "createDate": "2020-02-01T00:00:00Z",
+      "disabled": false,
+      "email": "12345678-abc-defg-abc-123456789012@example.com",
+      "firstName": "Jane",
+      "fullName": "Jane Foo",
+      "imsUserId": "12345678901234567890ABCD@example.com",
+      "lastName": "Foo"
+    }
+  ],
+  "number": 0,
+  "size": 10,
+  "numberOfElements": 2,
+  "totalElements": 2,
+  "previousPage": false,
+  "firstPage": true,
+  "nextPage": false,
+  "lastPage": true,
+  "totalPages": 1
+}
