@@ -11,6 +11,8 @@ vet:
 
 .PHONY: lint
 lint:
+	@export PATH=$$PATH:$(go env GOPATH)/bin
+	@go get -u golang.org/x/lint/golint >/dev/null 2>&1
 	@golint -min_confidence=.6 -set_exit_status ./...
 
 .PHONY: test
