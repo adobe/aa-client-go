@@ -1,0 +1,13 @@
+{
+  "companyId": 1,
+  "loginId": 1,
+  "login": "12345678-abc-defg-abc-123456789012@example.com",
+  "changePassword": false,
+  "createDate": "2020-01-01T00:00:00Z",
+  "disabled": false,
+  "email": "12345678-abc-defg-abc-123456789012@example.com",
+  "firstName": "John",
+  "fullName": "John Doe",
+  "imsUserId": "12345678901234567890ABCD@example.com",
+  "lastName": "Doe"
+}
